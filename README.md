@@ -25,6 +25,13 @@ Carry = AB + ACin + BCin
 ![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
 
 **Figure -1 FULL ADDER**
+**RTL Schematic**
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 100412" src="https://github.com/user-attachments/assets/9f4ee2f8-6a7e-468c-9dc2-ba1209bd937d" />
+
+
+**Output Timing Waveform**
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 101057" src="https://github.com/user-attachments/assets/fb26abdd-9099-434c-99da-f11208a1efb4" />
+
 
 **Full Subtractor**
 
@@ -48,8 +55,12 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 130932" src="https://github.com/user-attachments/assets/107bfc31-dcc4-4744-927d-bc8f69d9c2bc" />
+
 
 **Output Timing Waveform**
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 132211" src="https://github.com/user-attachments/assets/069e2d6c-3810-4425-b16b-cdf1e04277a2" />
+
 
 **Result:**
 
