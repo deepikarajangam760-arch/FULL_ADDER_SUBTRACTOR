@@ -55,7 +55,8 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
-<img width="1920" height="1020" alt="Screenshot 2025-11-24 130932" src="https://github.com/user-attachments/assets/107bfc31-dcc4-4744-927d-bc8f69d9c2bc" />
+<img width="1920" height="1020" alt="Screenshot 2025-11-24 130926" src="https://github.com/user-attachments/assets/074993f5-05ad-4348-bea2-ad9198cc8218" />
+
 
 
 **Output Timing Waveform**
